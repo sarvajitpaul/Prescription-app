@@ -1,0 +1,13 @@
+{
+"name":"Prescription App",
+"short_name":"Rx",
+
+"start_url":"index.html",
+
+"display":"standalone",
+
+"background_color":"white",
+
+"theme_color":"blue"
+
+}
